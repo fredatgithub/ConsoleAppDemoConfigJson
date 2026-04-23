@@ -1,0 +1,7 @@
+﻿{
+  "Settings": {
+    "ApiUrl": "https://api.exemple.com",
+    "Timeout": "30",
+    "Mode": "Production"
+  }
+}
